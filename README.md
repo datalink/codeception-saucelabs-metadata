@@ -3,6 +3,8 @@ Codeception Extension: Saucelabs Metadata
 
 Codeception extension that provides metadata to Saucelabs when running tests.
 
+Modified by Datalink to have the correct include path to vendor/autoload.php
+
 ## Requirements
 
 * A Saucelabs account
