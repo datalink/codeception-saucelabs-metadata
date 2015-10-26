@@ -1,8 +1,8 @@
 {
-    "name": "neam/codeception-saucelabs-metadata",
-    "description": "Codeception extension that provides metadata to Saucelabs when running tests",
+    "name": "datalink/codeception-saucelabs-metadata",
+    "description": "Codeception extension that provides metadata to Saucelabs when running tests, forked from https://github.com/neam/codeception-saucelabs-metadata",
     "keywords": ["codeception", "saucelabs", "metadata"],
-    "homepage": "https://github.com/neam/codeception-saucelabs-metadata",
+    "homepage": "https://github.com/datalink/codeception-saucelabs-metadata",
     "type": "library",
     "license": "MIT",
     "authors": [
